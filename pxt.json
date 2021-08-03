@@ -1,5 +1,6 @@
 {
     "name": "Unit 5Sprite walking a square",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
